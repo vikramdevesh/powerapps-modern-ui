@@ -1,0 +1,61 @@
+﻿Product,SKU,Category,Store,Region,Qty,Reorder,Price
+Running Shoes,APP-1003,Apparel,Chennai · ST-007,South,41,15,2499
+Basmati Rice 5kg,GRO-4001,Grocery,Mumbai · ST-001,West,18,60,649
+Running Shoes,APP-1003,Apparel,Pune · ST-005,West,20,15,2499
+Cotton Bedsheet Set,HOM-3003,Home,Pune · ST-005,West,33,15,1199
+Basmati Rice 5kg,GRO-4001,Grocery,Indore · ST-008,Central,139,60,649
+Building Blocks Set,TOY-5001,Toys,Mumbai · ST-001,West,71,15,1299
+Non-Stick Fry Pan,HOM-3001,Home,Delhi · ST-002,North,93,20,899
+Wireless Earbuds,ELE-2001,Electronics,Delhi · ST-002,North,65,20,1999
+Cotton Crew T-Shirt,APP-1001,Apparel,Delhi · ST-002,North,37,40,499
+Wireless Earbuds,ELE-2001,Electronics,Jaipur · ST-006,North,1,20,1999
+10000mAh Power Bank,ELE-2002,Electronics,Bengaluru · ST-003,South,0,25,1299
+Running Shoes,APP-1003,Apparel,Jaipur · ST-006,North,0,15,2499
+Running Shoes,APP-1003,Apparel,Delhi · ST-002,North,26,15,2499
+10000mAh Power Bank,ELE-2002,Electronics,Hyderabad · ST-009,South,94,25,1299
+Building Blocks Set,TOY-5001,Toys,Hyderabad · ST-009,South,8,15,1299
+Basmati Rice 5kg,GRO-4001,Grocery,Hyderabad · ST-009,South,242,60,649
+Wireless Earbuds,ELE-2001,Electronics,Hyderabad · ST-009,South,78,20,1999
+Cotton Bedsheet Set,HOM-3003,Home,Bengaluru · ST-003,South,74,15,1199
+Wireless Earbuds,ELE-2001,Electronics,Lucknow · ST-010,North,37,20,1999
+Basmati Rice 5kg,GRO-4001,Grocery,Kolkata · ST-004,East,27,60,649
+Wireless Earbuds,ELE-2001,Electronics,Pune · ST-005,West,42,20,1999
+Non-Stick Fry Pan,HOM-3001,Home,Bengaluru · ST-003,South,74,20,899
+10000mAh Power Bank,ELE-2002,Electronics,Indore · ST-008,Central,24,25,1299
+Cotton Bedsheet Set,HOM-3003,Home,Chennai · ST-007,South,67,15,1199
+Basmati Rice 5kg,GRO-4001,Grocery,Delhi · ST-002,North,121,60,649
+Building Blocks Set,TOY-5001,Toys,Indore · ST-008,Central,44,15,1299
+Building Blocks Set,TOY-5001,Toys,Pune · ST-005,West,2,15,1299
+Basmati Rice 5kg,GRO-4001,Grocery,Jaipur · ST-006,North,233,60,649
+Wireless Earbuds,ELE-2001,Electronics,Kolkata · ST-004,East,83,20,1999
+Cotton Crew T-Shirt,APP-1001,Apparel,Bengaluru · ST-003,South,74,40,499
+Cotton Bedsheet Set,HOM-3003,Home,Delhi · ST-002,North,57,15,1199
+Non-Stick Fry Pan,HOM-3001,Home,Jaipur · ST-006,North,17,20,899
+Building Blocks Set,TOY-5001,Toys,Chennai · ST-007,South,5,15,1299
+Non-Stick Fry Pan,HOM-3001,Home,Lucknow · ST-010,North,41,20,899
+Running Shoes,APP-1003,Apparel,Lucknow · ST-010,North,35,15,2499
+Running Shoes,APP-1003,Apparel,Mumbai · ST-001,West,53,15,2499
+Basmati Rice 5kg,GRO-4001,Grocery,Pune · ST-005,West,0,60,649
+Cotton Bedsheet Set,HOM-3003,Home,Hyderabad · ST-009,South,26,15,1199
+Non-Stick Fry Pan,HOM-3001,Home,Indore · ST-008,Central,0,20,899
+Cotton Bedsheet Set,HOM-3003,Home,Lucknow · ST-010,North,43,15,1199
+Wireless Earbuds,ELE-2001,Electronics,Mumbai · ST-001,West,6,20,1999
+Building Blocks Set,TOY-5001,Toys,Bengaluru · ST-003,South,74,15,1299
+10000mAh Power Bank,ELE-2002,Electronics,Pune · ST-005,West,64,25,1299
+10000mAh Power Bank,ELE-2002,Electronics,Chennai · ST-007,South,79,25,1299
+Cotton Crew T-Shirt,APP-1001,Apparel,Indore · ST-008,Central,59,40,499
+Cotton Crew T-Shirt,APP-1001,Apparel,Kolkata · ST-004,East,111,40,499
+Running Shoes,APP-1003,Apparel,Hyderabad · ST-009,South,62,15,2499
+Non-Stick Fry Pan,HOM-3001,Home,Kolkata · ST-004,East,55,20,899
+Building Blocks Set,TOY-5001,Toys,Kolkata · ST-004,East,38,15,1299
+Cotton Bedsheet Set,HOM-3003,Home,Mumbai · ST-001,West,40,15,1199
+10000mAh Power Bank,ELE-2002,Electronics,Mumbai · ST-001,West,34,25,1299
+Cotton Crew T-Shirt,APP-1001,Apparel,Lucknow · ST-010,North,133,40,499
+Non-Stick Fry Pan,HOM-3001,Home,Chennai · ST-007,South,98,20,899
+Basmati Rice 5kg,GRO-4001,Grocery,Lucknow · ST-010,North,45,60,649
+Cotton Crew T-Shirt,APP-1001,Apparel,Chennai · ST-007,South,22,40,499
+Cotton Crew T-Shirt,APP-1001,Apparel,Jaipur · ST-006,North,185,40,499
+Cotton Bedsheet Set,HOM-3003,Home,Jaipur · ST-006,North,50,15,1199
+10000mAh Power Bank,ELE-2002,Electronics,Kolkata · ST-004,East,119,25,1299
+Running Shoes,APP-1003,Apparel,Bengaluru · ST-003,South,74,15,2499
+Wireless Earbuds,ELE-2001,Electronics,Indore · ST-008,Central,19,20,1999
